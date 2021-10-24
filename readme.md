@@ -24,6 +24,7 @@
 * Geojsons anschauen, validieren: http://geojson.io
 * Json anschauen, validieren: https://jsonformatter.curiousconcept.com
 * Daten konvertieren: https://www.convertcsv.com/json-to-csv.htm
+* Weiterer Daten Kovertierer (vor allem gut für Geodaten): https://mygeodata.cloud/converter/
 * Daten anschauen, sortieren, bearbeiten: https://docs.google.com/spreadsheets (alternativ: Numbers, Excel, …)
 * …
 
