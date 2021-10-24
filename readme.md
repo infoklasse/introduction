@@ -12,8 +12,11 @@
 * Github: https://github.com
 * Code Editor: https://code.visualstudio.com/
 * Extension im Code Editor: 
-  * Extension 1
-  * Extension 2
+  * Live Server
+  * HTML Boilerplate
+  * CSS Formatter
+  * Edit Csv
+  * …
 * Browser: https://www.google.com/intl/de_de/chrome/
 * …
 
