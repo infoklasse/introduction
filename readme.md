@@ -24,4 +24,6 @@
 * Daten anschauen, sortieren, bearbeiten: https://docs.google.com/spreadsheets (alternativ: Numbers, Excel, …)
 * …
 
-### 
+### Housekeeping
+* google.com/spreadsheets/d/1uKnk6u0VyzE7FtqG5asvNEI9glx1voJnXH6YEo2dx7w/edit#gid=0
+  * zum Schutz vor Phishing/Bots den Link oben kopieren und und dann in der Adresszeile das an den Anfang einfügen: https://docs.
