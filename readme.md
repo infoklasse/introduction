@@ -5,7 +5,7 @@
 #### p5.js
 * Bibliothek: https://p5js.org
 * Dokumentation: https://p5js.org/reference/ 
-* …
+* … (weitere folgen im Verlauf des Kurs)
 
 ### Werkzeuge
 #### Code schreiben, anschauen und speichern
@@ -16,9 +16,9 @@
   * HTML Boilerplate
   * CSS Formatter
   * Edit Csv
-  * …
 * Browser: https://www.google.com/intl/de_de/chrome/
-* …
+  * Chromes »Untersuchen« Tool (rechte Maustaste)
+* … (weitere folgen im Verlauf des Kurs)
 
 #### Daten anschauen, bearbeiten, konvertieren …
 * Geojsons anschauen, validieren: http://geojson.io
@@ -30,4 +30,6 @@
 
 ### Housekeeping
 * google.com/spreadsheets/d/1uKnk6u0VyzE7FtqG5asvNEI9glx1voJnXH6YEo2dx7w/edit#gid=0
-  * zum Schutz vor Phishing/Bots den Link oben kopieren und und dann in der Adresszeile das an den Anfang einfügen: https://docs.
+*zum Schutz vor Phishing/Bots den Link oben kopieren und und dann in der Adresszeile das an den Anfang einfügen:* https://docs.\
+\
+Bitte ladet eure Entwürfe immer bis spätestens Sonntag 12.00 Uhr auf Github, sodass ich sie vor dem nächsten Seminartermin einsehen kann.
