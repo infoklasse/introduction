@@ -18,7 +18,7 @@
   * Edit Csv
 * Browser: https://www.google.com/intl/de_de/chrome/
   * Chromes »Untersuchen« Tool (rechte Maustaste)
-* … (weitere folgen im Verlauf des Kurs)
+* JavaScript Referenz: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 #### Daten anschauen, bearbeiten, konvertieren …
 * Geojsons anschauen, validieren: http://geojson.io
