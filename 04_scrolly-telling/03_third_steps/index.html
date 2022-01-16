@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/debug.addIndicators.min.js"></script>
+    <title>Document</title>
+</head>
+<body>
+
+    <section class="panel blue">
+        <b>ONE</b>
+    </section>
+    <section class="panel turqoise">
+        <b>TWO</b>
+    </section>
+    <section class="panel green">
+        <b>THREE</b>
+    </section>
+    <section class="panel beige">
+        <b>FOUR</b>
+    </section>
+
+
+    <style type="text/css">
+        .panel {
+            height: 100vh;
+            width: 100%;
+        }
+
+        .blue{
+            background-color: blue;
+        }
+
+        .turqoise{
+            background-color: turquoise;
+        }
+
+        .green{
+            background-color: green;
+        }
+
+        .beige{
+            background-color: beige;
+        }
+
+
+    </style>
+
+    
+    <script>
+            // init
+            var controller = new ScrollMagic.Controller({
+                //http://scrollmagic.io/docs/ScrollMagic.Controller.html#constructor
+                globalSceneOptions: { 
+                    //http://scrollmagic.io/docs/ScrollMagic.Scene.html#constructor
+                    triggerHook: 'onLeave',
+                    duration: "100%" // this works just fine with duration 0 as well
+                    // However with large numbers (>20) of pinned sections display errors can occur so every section should be unpinned once it's covered by the next section.
+                }
+            });
+    
+            // get all slides
+            var slides = document.querySelectorAll("section.panel");
+    
+            // create scene for every slide
+            for (var i=0; i<slides.length; i++) {
+                new ScrollMagic.Scene({
+                        triggerElement: slides[i]
+                    })
+                    //http://scrollmagic.io/docs/ScrollMagic.Scene.html#setPin
+                    .setPin(slides[i], {pushFollowers: false})
+                    //.addIndicators() // add indicators (requires plugin)
+                    .addTo(controller);
+            }
+    </script>
+</body>
+</html>
