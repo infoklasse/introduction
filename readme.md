@@ -33,3 +33,17 @@
 *zum Schutz vor Phishing/Bots den Link oben kopieren und und dann in der Adresszeile das an den Anfang einfügen:* https://docs.
 \
 Bitte ladet eure Entwürfe immer bis spätestens Sonntag 12.00 Uhr auf Github, sodass ich sie vor dem nächsten Seminartermin einsehen kann.
+
+
+## Abgabe
+### Bitte Dokumentationen der einzelnen Module (Zeit visualisieren, Daten auslesen und darstellen, Scrollytelling) folgendermassen digital abgeben:
+
+#### Zeit visualisieren
+* Github Url der Seite
+#### Daten auslesen und darstellen_1-5 Screenshots die die Visualisierung 
+* Github Url der Seite
+#### Scrollytelling
+* Github Url der Seite
+
+
+
