@@ -40,10 +40,12 @@ Bitte ladet eure Entwürfe immer bis spätestens Sonntag 12.00 Uhr auf Github, s
 
 #### Zeit visualisieren
 * Github Url der Seite
-#### Daten auslesen und darstellen_1-5 Screenshots die die Visualisierung 
+#### Daten auslesen und darstellen
 * Github Url der Seite
 #### Scrollytelling
 * Github Url der Seite
+
+Die drei Urls zusenden
 
 
 
